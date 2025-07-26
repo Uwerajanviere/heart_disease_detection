@@ -22,23 +22,6 @@ This is a complete heart disease prediction web application that uses a machine 
 - Hosted live demo link (optional)
 
 
-
-## Project Structure
-
-HEART_DISEASE_PREDICTION/
-├── static/
-│   ├── index.html            #  Frontend HTML form
-│   └── style.css             #  CSS styles for the form
-├── heart.csv                 #  Dataset used for training
-├── heart.ipynb               #  Jupyter Notebook for training and analysis
-├── heart_disease_model.pkl   #  Trained ML model
-├── main.py                   #  FastAPI backend server
-└── README.md                 #  Project description (this file)
-
-
-
-
-
 ##  Machine Learning Model
 
 - Dataset: UCI Heart Disease Dataset
