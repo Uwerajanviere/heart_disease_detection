@@ -31,6 +31,7 @@ This is a complete heart disease prediction web application that uses a machine 
 - Evaluation Metrics: Accuracy, Recall, Precision, F1-score
 
 
+🌐 [Live Demo](https://heart-disease-detection-1-rr00.onrender.com) — hosted on Render Free Tier
 
 ##  How to Run Locally
 
