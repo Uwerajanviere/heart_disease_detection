@@ -1,27 +1,17 @@
-## 🩺 Problem Statement
+![Heart Disease Input Form](heart1.png)
 
-Heart disease is one of the leading causes of death worldwide.  
-Many people don’t realize they are at risk until it’s too late.  
-Doctors and hospitals often need **fast** and **early predictions** to help patients receive proper treatment.  
-Unfortunately, not everyone has access to advanced medical equipment or early diagnosis systems.
+🩺 Problem Statement
+Heart disease is one of the leading causes of death worldwide. Many people don't realize they are at risk until it's too late. Doctors and hospitals often need fast, early predictions to help patients get the right treatment. However, not everyone has access to advanced medical tools.
 
----
 
-## ✅ Solution
-
-This project provides a **Machine Learning-powered web app** that predicts the likelihood of heart disease based on simple health information.
-
-- 🧠 Trained on real patient data
-- 📝 Easy-to-use form to enter medical details like age, cholesterol, and blood pressure
-- ⚡ Instant prediction result
-- 🌐 Accessible online with no need for installation
-
-> This tool can assist doctors, clinics, or individuals in making better decisions about their health early on.
-
+✅ Solution
+This project uses Machine Learning to help predict if a person is likely to have heart disease based on their health information. Users can fill out a form with medical data (like age, cholesterol, blood pressure), and the system will predict whether they might have heart disease. The model is trained using real medical data and is easy to use through a simple web interface.
 
 # ❤️ Heart Disease Prediction App (ML + FastAPI + HTML/CSS)
 
 This is a complete heart disease prediction web application that uses a machine learning model trained on the UCI Heart Disease dataset. The project includes a Python backend using FastAPI, a trained model saved as `.pkl`, and a simple frontend using HTML and CSS.
+
+![Prediction Result](heart.png)
 
 ##  Features
 
